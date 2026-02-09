@@ -1,7 +1,7 @@
 # Trabalho Final - Processamento de Imagens
 ### Alunos: Lavínia Louise Rosa Santos e Luís Eduardo Cardoso de Santana
 
-## Detecção e Classificação de Dados com Transformada de Hough
+## Detecção e Classificação de Dados com Transformada de Hough Circular
 Esse repositório contém uma implementação de classificação automática de dados em imagens usando técnicas vistas na matéria de Processamento de Imagens. A solução identifica as circunferências de todos os dados usando CHT e agrupa essas circunferências por proximidade possibilitando detectar cada dado e classificá-lo com base na quantidade de círculos da sua face, ou seja, de 1 a 6. Além disso, o repositório disponibiliza o dataset utilizado e o link para o vídeo de apresentação da solução.
 
 #### A solução segue as seguintes etapas:
@@ -16,7 +16,7 @@ Esse repositório contém uma implementação de classificação automática de 
 8. Classificação pelo número de circunferências em cada dado
 9. Exibição dos dados detectados e classificados
 
-#### Como usar:
+#### Intruções de uso no Google Colab:
 
 1. Baixe o dataset que está nesse repositório
 2. Baixe o arquivo ipynb do código
